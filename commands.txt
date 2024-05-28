@@ -3,4 +3,5 @@ git status
 git commit -m 
 git clone
 git fetch
-git pull 
+git pull
+git push 
